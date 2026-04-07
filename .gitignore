@@ -1,0 +1,14 @@
+# 录像文件
+recordings/*.ts
+recordings/*.mp4
+recordings/*.flv
+
+# URL 日志
+recordings/captured_urls.txt
+
+# mitmproxy 证书
+.mitmproxy/
+
+# Python
+__pycache__/
+*.pyc
