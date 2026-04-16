@@ -3,9 +3,9 @@ chcp 65001 >nul
 title 安装 mitmproxy CA 证书
 
 echo.
-echo  ╔══════════════════════════════════════════╗
-echo  ║    安装 mitmproxy CA 证书 (HTTPS解密)    ║
-echo  ╚══════════════════════════════════════════╝
+echo  +==========================================+
+echo  :    安装 mitmproxy CA 证书 (HTTPS解密)    :
+echo  +==========================================+
 echo.
 
 set CERT_DIR=%USERPROFILE%\.mitmproxy
